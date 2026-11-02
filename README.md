@@ -6,35 +6,21 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling\_heart:
+For some more information on how to fork a repository, [check out our guide, "Forking Projects"](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-
-
-\## Feature Branch Changes
-
-
+## Feature Branch Changes
 
 This section was added by the feature developer.
-
-
 
 Feature: Branch Management
 
 Purpose: Demonstrate Git merge conflict resolution.
 
+## Main Branch Changes
 
+This section was added by another collaborator.
 
-\## Feature Branch Changes
+Feature: Main Branch Update
 
-
-
-This section was added by the feature developer.
-
-
-
-Feature: Branch Management
-
-Purpose: Demonstrate Git merge conflict resolution.
-
-
+Purpose: Demonstrate collaborative development.
 
